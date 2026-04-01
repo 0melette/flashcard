@@ -1,0 +1,9 @@
+1. setup .gitignore
+2. setup frontend
+    - create vite
+        -   typescript
+3. setup fast api backend
+    - fastapi
+    - uvicorn
+    - pymongo
+    - python-dotnev
