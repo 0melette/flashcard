@@ -7,3 +7,18 @@
     - uvicorn
     - pymongo
     - python-dotnev
+
+cd C:\Users\Amy.Zhou\flashcard\backend
+python -m uvicorn main:app --reload
+
+then check 
+
+http://127.0.0.1:8000 
+
+cd C:\Users\Amy.Zhou\flashcard\frontend
+npm install
+npm run dev
+
+check localhost
+
+http://localhost:5173/
